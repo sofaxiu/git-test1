@@ -10,6 +10,7 @@
 > today is a good day 
 `<div id="box1">box</div>`
 ```
+<!DOCTYPE HTML>
 <html>
 <head>
 <meta charset="utf-8">
